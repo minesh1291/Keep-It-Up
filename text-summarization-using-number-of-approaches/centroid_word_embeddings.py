@@ -19,3 +19,5 @@ embedding_model = text_summarizer.centroid_word_embeddings.load_gensim_embedding
 centroid_word_embedding_summarizer = text_summarizer.CentroidWordEmbeddingsSummarizer(embedding_model, preprocess_type='nltk')
 
 centroid_word_embedding_summary = centroid_word_embedding_summarizer.summarize(text)
+
+# Fast but not so good
