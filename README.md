@@ -9,6 +9,7 @@
 
 -  [design-and-visualize-architecture-of-neural-network](https://github.com/minesh1291/Keep-It-Up/tree/master/design-and-visualize-architecture-of-neural-network)
 -  [regularization](https://github.com/minesh1291/Keep-It-Up/tree/master/regularization)
+-  [regression-model-diagnosis](https://github.com/minesh1291/Keep-It-Up/tree/master/regression-model-diagnosis)
 
 ### Natural Language Processing
 
