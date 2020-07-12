@@ -12,6 +12,10 @@ A. Krizhevsky, I. Sutskever, and G. Hinton. Imagenet classification with deep co
 
 Sermanet, P., Eigen, D., Zhang, X., Mathieu, M., Fergus, R., & LeCun, Y. (2013). Overfeat: Integrated recognition, localization and detection using convolutional networks. arXiv preprint arXiv:1312.6229.
 
+# 2014
+
+M. D. Zeiler and R. Fergus. Visualizing and understanding convolutional neural networks. In ECCV, 2014.
+
 # 2015
 
 ## ResNet
