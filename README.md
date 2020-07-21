@@ -27,5 +27,5 @@
 
 ## Youtube Playlists
 
-[State of NLP](https://www.youtube.com/playlist?list=PLwP7df45lwysvI1yYb4X6fjKDduZmmox-) Natural Language Processing
-[State of CV](https://www.youtube.com/playlist?list=PLwP7df45lwyvJ0sg2eDG0QLMbxG0rwjrl) Computer Vision
+- [State of NLP](https://www.youtube.com/playlist?list=PLwP7df45lwysvI1yYb4X6fjKDduZmmox-) Natural Language Processing
+- [State of CV](https://www.youtube.com/playlist?list=PLwP7df45lwyvJ0sg2eDG0QLMbxG0rwjrl) Computer Vision
