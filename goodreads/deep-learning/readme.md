@@ -26,4 +26,9 @@ Bahdanau, D., Cho, K., & Bengio, Y. (2014). Neural machine translation by jointl
 
 He, K., Zhang, X., Ren, S., & Sun, J. (2015). Deep residual learning for image recognition. CoRR abs/1512.03385 (2015).
 
+# 2018
+
+## NALU
+
+Trask, A., Hill, F., Reed, S. E., Rae, J., Dyer, C., & Blunsom, P. (2018). Neural arithmetic logic units. In Advances in Neural Information Processing Systems (pp. 8035-8044).
 
